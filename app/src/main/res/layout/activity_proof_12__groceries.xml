@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Note: This is a typical 7 day grocery list from tesco. If we divide 14,141 by 7 days we get ~ 2,020 HUF per day or 60,600 HUF per month."
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="650dp"
+            android:layout_marginTop="0dp"
+            android:padding="10dp"
+            app:srcCompat="@drawable/proof_12_groceries_1" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="650dp"
+            android:layout_marginTop="0dp"
+            android:padding="10dp"
+            app:srcCompat="@drawable/proof_12_groceries_2" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="0dp"
+            android:padding="10dp"
+            app:srcCompat="@drawable/proof_12_groceries_3" />
+
+    </LinearLayout>
+
+</ScrollView>

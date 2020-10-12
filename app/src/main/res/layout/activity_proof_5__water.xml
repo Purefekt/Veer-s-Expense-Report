@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="Note: Water bill is not fixed and ranges from 3k-20k based on duration and usage as it might span 1 to 3 months of usage. I have taken 6k as average"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="750dp"
+            android:layout_marginTop="0dp"
+            android:contentDescription="proof_5_water"
+            app:srcCompat="@drawable/proof_5_water" />
+
+    </LinearLayout>
+
+</ScrollView>

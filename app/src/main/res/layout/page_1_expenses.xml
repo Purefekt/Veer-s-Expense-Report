@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[1] RENT = 160,000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[2] COMMUNITY FEE = 7,000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[3] Electricity = 5,170 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[4] Gas = 9,661 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[5] Water = 6,000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_bills"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[6] SIM = 6,490 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[7] Internet = 5,299 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[8] Protien Shake = 19,000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[9] Travel Pass = 4000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[10] Gym = 7,500 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8BC34A"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[11] Haircut = 4,000 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FF9800"
+            android:gravity="center"
+            android:typeface="monospace"
+            android:text="[12] Groceries = 60,600 HUF"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button_proof_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/button_bills"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:gravity="center"
+            android:text="-------------"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:typeface="monospace" />
+
+        <Button
+            android:id="@+id/button_breakdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="BREAKDOWN"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</ScrollView>

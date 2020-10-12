@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.singhveer.veersexpensereport">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Veer&apos;s Expense Report"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".page_0_password"></activity>
+        <activity android:name=".page_2_breakdown" />
+        <activity android:name=".Proof_12_Groceries" />
+        <activity android:name=".Proof_10_Gym" />
+        <activity android:name=".AboutAuthor" />
+        <activity android:name=".Proof_11_Haircut" />
+        <activity android:name=".Proof_9_Travel_Pass" />
+        <activity android:name=".Proof_8_Protien_Shake" />
+        <activity android:name=".Proof_7_Internet" />
+        <activity android:name=".Proof_6_SIM" />
+        <activity android:name=".Proof_5_Water" />
+        <activity android:name=".Proof_4_Gas" />
+        <activity android:name=".Proof_3_Electricity" />
+        <activity android:name=".page_1_expenses" />
+        <activity android:name=".page_0">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
