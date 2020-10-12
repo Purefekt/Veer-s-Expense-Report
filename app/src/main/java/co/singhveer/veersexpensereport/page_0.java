@@ -17,7 +17,6 @@ public class page_0 extends AppCompatActivity {
     private Button button_next_main;
     private Button button_about_author;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
