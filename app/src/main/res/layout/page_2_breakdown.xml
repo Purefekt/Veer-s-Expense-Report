@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:gravity="center_horizontal"
-            android:text="Total expense in a month = 294,720 HUF"
+            android:text="Total expense in a month = 296,220 HUF"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:typeface="monospace" />
@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
             android:gravity="center_horizontal"
-            android:text="Total monthly income = 316,200 HUF"
+            android:text="Total monthly income = 318,200 HUF"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:typeface="monospace" />
@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:layout_marginTop="10dp"
-            android:text="Mom = 232,500 HUF ($750)"
+            android:text="Mom = 234,500 HUF ($750)"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
             android:typeface="monospace" />
@@ -60,7 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
             android:gravity="center_horizontal"
-            android:text="BALANCE = 21,480 HUF"
+            android:text="BALANCE = 21,980 HUF"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:typeface="monospace" />
@@ -88,21 +88,11 @@
             android:typeface="monospace" />
 
         <TextView
-            android:id="@+id/textView10"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center_horizontal"
-            android:text="2) Xbox Live subscription"
-            android:textColor="#FFFFFF"
-            android:textSize="15sp"
-            android:typeface="monospace" />
-
-        <TextView
             android:id="@+id/textView11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="3) Google Drive subscription"
+            android:text="2) Google Drive subscription"
             android:textColor="#FFFFFF"
             android:textSize="15sp"
             android:typeface="monospace" />
@@ -112,7 +102,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="4) Bathroom products (clothes washing powder, handwash, shower gel, shampoo, Deo, tc)"
+            android:text="3) Bathroom products (clothes washing powder, handwash, shower gel, shampoo, Deo, tc)"
             android:textColor="#FFFFFF"
             android:textSize="15sp"
             android:typeface="monospace" />
@@ -122,7 +112,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="5) Kitchen items (ketchup, garbage bags, dish washing soap, etc)"
+            android:text="4) Kitchen items (ketchup, garbage bags, dish washing soap, etc)"
             android:textColor="#FFFFFF"
             android:textSize="15sp"
             android:typeface="monospace" />
@@ -132,7 +122,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="6) Eating out, ordering, movies, etc."
+            android:text="5) Eating out, ordering, movies, etc."
             android:textColor="#FFFFFF"
             android:textSize="15sp"
             android:typeface="monospace" />
@@ -142,7 +132,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="7) Savings"
+            android:text="6) Savings"
             android:textColor="#FFFFFF"
             android:textSize="15sp"
             android:typeface="monospace" />

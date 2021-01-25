@@ -134,10 +134,10 @@
             android:layout_height="wrap_content"
             android:background="#FF9800"
             android:gravity="center"
-            android:typeface="monospace"
-            android:text="[8] Protien Shake = 19,000 HUF"
+            android:text="[8] Protien Shake = 20,500 HUF"
             android:textColor="#000000"
-            android:textSize="25sp" />
+            android:textSize="25sp"
+            android:typeface="monospace" />
 
         <Button
             android:id="@+id/button_proof_8"

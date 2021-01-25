@@ -23,7 +23,7 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
-            android:layout_height="255dp"
+            android:layout_height="384dp"
             android:layout_marginTop="0dp"
             android:contentDescription="proof_8_protien_shake"
             app:srcCompat="@drawable/proof_8_protien_shake" />
